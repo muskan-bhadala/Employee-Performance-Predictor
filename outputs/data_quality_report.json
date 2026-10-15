@@ -1,0 +1,31 @@
+{
+  "rows": 1200,
+  "columns": 19,
+  "duplicate_rows": 0,
+  "missing_values_by_column": {
+    "employee_id": 0,
+    "department": 0,
+    "job_level": 0,
+    "salary_band": 0,
+    "experience_years": 0,
+    "projects_count": 0,
+    "avg_task_delay_days": 30,
+    "on_time_delivery_rate": 0,
+    "bug_count": 0,
+    "code_review_score": 0,
+    "training_hours": 30,
+    "certifications_count": 0,
+    "sick_days": 0,
+    "unplanned_absences": 0,
+    "peer_feedback_score": 30,
+    "manager_score": 0,
+    "kudos_count": 0,
+    "billable_hours_ratio": 0,
+    "perf_band_next": 0
+  },
+  "target_distribution": {
+    "Medium": 420,
+    "Low": 396,
+    "High": 384
+  }
+}
